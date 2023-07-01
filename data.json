@@ -1,0 +1,112 @@
+{
+  "skills": [
+{
+    "id": 1,
+    "skillName": "HTML5",
+    "skillDesc": "I've been self studying front end developer for a while now and I've managed to get a very good understanding of HTML5, though I know web development won't stop growing so I won't stop learning.",
+    "skillLevel": "Adavanced"
+},
+{
+  "id": 2,
+  "skillName": "CCS3",
+  "skillDesc": "I've managed to get a very good grasp of CSS during over the few months, I am happy with the progress I've made but I'm still learning as much as I can to improve my skills.",
+  "skillLevel": "Adavanced"
+},
+{
+  "id": 3,
+  "skillName": "JavaScript ",
+  "skillDesc": "I've gained experience using JavaScript by building a few projects which allowed me to grasp key concepts. I am still in the process of improving my knowledge regarding JS. I'm quite happy with the progress I'm making.",
+  "skillLevel": "Intermediate"
+},
+{
+  "id": 4,
+  "skillName": "GitHub",
+  "skillDesc": "During my 6 months at Life Choices, I learned how to use GitHub and now have a good understanding of the command we were taught and I can now use GitHub with my eyes closed.",
+  "skillLevel": "Intermediate"
+},
+{
+  "id": 5,
+  "skillName": "VUE 3",
+  "skillDesc": "During my 6 months at Life Choices, I learned how to use GitHub and now have a good understanding of the command we were taught and I can now use GitHub with my eyes closed.",
+  "skillLevel": "Beginner"
+}
+],
+  "education": [
+{
+    "id": 1,
+    "date": "Apr 2023 - Current",
+    "company": "Life Choices",
+    "jobDesc": "I'm currently attending a 12 month coding bootcamp at Life Choices which will prepare me to become a web developer, I'm learning all the necessary skills thrive as a front end developer."
+},
+{
+  "id": 2,
+  "date": "Mar 2022 - Nov 2022",
+  "company": "Business Technology",
+  "jobDesc": "I worked at Business Technology for 9 months as a Systems Engineer and my daily tasks were as following seeing to clients hardware and software issues, doing client visits and setting up PCs for clients. The reason why I left was because I felt like it wasn't what I wanted to do and needed to do something else."
+},
+{
+  "id": 3,
+  "date": "Jun 2019 - Nov 2019",
+  "company": "First Technology",
+  "jobDesc": "I worked at First Technology for 5 months and my daily tasks were creating power apps and power flows for clients, seeing to clients SharePoint Sites, creating custom sharepoint sites. The reason why I left was because I felt like I wasn't ready and needed to studying further."
+},
+{
+  "id": 4,
+  "date": "2016",
+  "company": "Rhodes High School",
+  "jobDesc": "My high school period wasn't the best but I'm proud of the person I become after I graduated."
+}
+],
+  "projects": [
+{
+    "id": 1,
+    "projectTitle": "E-commerce Website",
+    "projectDesc": "I created a e-commerce website with an admin page using HTML, CSS, and JavaScript. The primary objective was to build a functional and visually appealing online store with an accompanying admin interface to manage products by using a CRUD system",
+    "gitHubLink": "https://github.com/LC1007/eomp-ecommerce.git",
+    "demoLink": "https://helpful-kangaroo-54d80a.netlify.app/"
+},
+{
+  "id": 2,
+  "projectTitle": "Property Website",
+  "projectDesc": "I found a property website design on Pinterest and tried recreating it using HTML and CSS. The goal was to develop a visually appealing and user-friendly website that showcases various properties and provides essential information to potential buyers or renters.",
+  "gitHubLink": "https://github.com/Justin0929m/property-Website-Update.git",
+  "demoLink": "https://prowebtoday.netlify.app/"
+},
+{
+  "id": 3,
+  "projectTitle": "Travel Website",
+  "projectDesc": "I did the same process as with the property website website, where I looked for website designs to recreate to test my HTML and CSS skills. I found a travel website that peaked my interest, I've recreated the website to the best of my ability.",
+  "gitHubLink": "https://github.com/Justin0929m/travel-website.git",
+  "demoLink": "https://1travelwebsite1.netlify.app/"
+},
+{
+  "id": 4,
+  "projectTitle": "E-commerce Website",
+  "projectDesc": "I created this website for someone who sells things from their home, the purpose of the website was to make posting items more easily instead of posting on their whatsapp status. I am creating still in the process of building the website but I've completed most of the UI aspect of it.",
+  "gitHubLink": "https://github.com/Justin0929m/project-1.git",
+  "demoLink": "https://homesalestoday.netlify.app/"
+}
+],
+  "testimonials": [
+{
+    "id": 1,
+    "name": "Summer De Wet",
+    "text": "Justin is the most intellectually intelligent person I know, if I could say so my self.He is extremely helpful and is always leaving his work to help anyone in need. He has such a kind spirit. For the past few weeks, Justin has become a really close friend of mine, and his help and presence have greatly benefited me. I appreciate it. Justin does extremely well with his work and pays attention to detail in whatever he does. So I assure you, Justin would be a perfect candidate and make any company prosper! Justin doesn't mean 'righteous' for nothing"
+},
+{
+  "id": 2,
+  "name": "Rabia Haucha",
+  "text": "Justin is a very considerate and helpful young man who is very pleasant to work with. His energy alone is like a sudden beam of sunlight, illuminating the darkest corners of the room and adding happiness to everyone's day. He is hardworking, never fails to complete any given task, and helps anyone who needs it. Having him in your workplace will be an asset because he is a quick thinker and a very hard worker."
+},
+{
+  "id": 3,
+  "name": "Zia Khan",
+  "text": "I truly admire Justin's amazing work ethic. He is highly skilled at what he does. When I met him, I immediately picked up on the fact that he is an intelligent person. He is great at working with others. He's very good at problem solving and thinking creatively; he is always willing to help others, and he can be super dependable. He can be very organized and shows amazing support for others."
+},
+{
+  "id": 4,
+  "name": "Jason Viljoen",
+  "text": "Justin is a truly promising student showing potential in all areas of this course, being one of his fellow classmates, I could only gain as much knowledge from him as I could. He constantly has new ideas and is very innovative, when in the development sector. He is able to work in both back and front end sectors due to his knack for problem solving and always doing his utmost to solve any problem that arises. Justin is extremely intuitive and a quick thinker, no challenge is too hard for Justin Scholtz."
+}
+]
+}
