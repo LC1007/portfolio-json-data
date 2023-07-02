@@ -139,28 +139,33 @@
       "name": "Summer De Wet",
       "textFirst": "Justin is the most intellectually intelligent person I know, if I could say so my self.He is extremely helpful and is always willing to leave his work to help anyone in need. He has such a kind spirit. For the past few weeks, Justin has become a really close friend of mine, and his help",
       "textSecond": "and presence have greatly benefited me. I appreciate it. Justin does extremely well with his work and pays attention to detail in whatever he does. So I assure you, Justin would be a perfect candidate and make any company prosper! Justin doesn't mean 'righteous' for nothing.",
-      "img": "https://i.postimg.cc/Ghs468Mh/20230509-171206.jpg"
+      "img": "https://i.postimg.cc/Ghs468Mh/20230509-171206.jpg",
+      "function": "ch-one"
     },
     {
       "id": 2,
       "name": "Rabia Haucha",
       "textFirst": "Justin is a very considerate and helpful young man who is very pleasant to work with. His energy alone is like a sudden beam of sunlight, illuminating the darkest corners of the room and adding happiness to everyone's day. He is hardworking, never fails to complete any given task, ",
       "textSecond": "and helps anyone who needs it. Having him in your workplace will be an asset because he is a quick thinker and a very hard worker.",
-      "img": "https://i.postimg.cc/V6DtsxMf/Screenshot-20221111-094743.jpg"
+      "img": "https://i.postimg.cc/V6DtsxMf/Screenshot-20221111-094743.jpg",
+      "function": "ch-two"
     },
     {
       "id": 3,
       "name": "Zia Khan",
       "textFirst": "I truly admire Justin's amazing work ethic. He is highly skilled at what he does. When I met him, I immediately picked up on the fact that he is an intelligent person. He is great at working with others. He's very good at problem solving and thinking creatively; he is always willing to help others, ",
       "textSecond": "and he can be super dependable. He can be very organized and shows amazing support for others.",
-      "img": "https://i.postimg.cc/L551JxBz/zia.jpg"
+      "img": "https://i.postimg.cc/L551JxBz/zia.jpg",
+      "function": "ch-three"
+
     },
     {
       "id": 4,
       "name": "Jason Viljoen",
       "textFirst": "Justin is a truly promising student, showing potential in all areas of this course. Being one of his fellow classmates, I could only gain as much knowledge from him as I could. He constantly has new ideas and is very innovative when in the development sector. He is able to work in both the back-end ",
       "textSecond": "and front-end sectors due to his knack for problem solving and always doing his utmost to solve any problem that arises. Justin is extremely intuitive and a quick thinker; no challenge is too hard for Justin Scholtz.",
-      "img": "https://i.postimg.cc/GhZypJBy/90928282-1613696178782933-8697521963691671552-n.jpg"
+      "img": "https://i.postimg.cc/GhZypJBy/90928282-1613696178782933-8697521963691671552-n.jpg",
+      "function": "ch-four"
     }
   ]
 }
