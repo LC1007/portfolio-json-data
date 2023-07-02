@@ -4,14 +4,14 @@
       "id": 1,
       "skillName": "HTML5",
       "skillDesc": "I've been self-studying front-end developers for a while now, and I've managed to get a very good understanding of HTML5, though I know web development won't stop growing, so I won't stop learning.",
-      "skillLevel": "Adavanced",
+      "skillLevel": "Advanced",
       "img": "https://i.postimg.cc/g2PWcxc0/pngegg.png"
     },
     {
       "id": 2,
       "skillName": "CCS3",
       "skillDesc": "I've managed to get a very good grasp of CSS over the past few months. I am happy with the progress I've made, but I'm still learning as much as I can to improve my skills.",
-      "skillLevel": "Adavanced",
+      "skillLevel": "Advanced",
       "img": "https://i.postimg.cc/hGsg5KBt/css.png"
     },
     {
