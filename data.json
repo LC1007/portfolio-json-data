@@ -40,7 +40,7 @@
 {
     "id": 1,
     "date": "Jun 2021 - Jul 2022",
-    "company": "Qualifications",
+    "institution": "Qualifications",
     "eduDesc": "During the 2 years I've obtained 4 qualification's from AWS and Azure",
     "qualification1": "AWS Cloud Practitioner",
     "qualification2": "Microsoft Certified: Azure Data Fundamentals",
@@ -50,37 +50,37 @@
 {
     "id": 2,
     "date": "Apr 2023 - Current",
-    "company": "Life Choices",
+    "institution": "Life Choices",
     "eduDesc": "I'm currently attending a 12-month coding bootcamp at Life Choices, which will prepare me to become a web developer. I'm learning all the necessary skills to thrive as a front-end developer."
 },
 {
     "id": 3,
     "date": "Mar 2023",
-    "company": "Rlabs Introduction to Cloud Computing",
+    "institution": "Rlabs",
     "eduDesc": "Rlabs had a one month program where we were introduced to AWS and how it all works."
 },
 {
     "id": 4,
     "date": "Jan 2020 - Dec 2020",
-    "company": "Rlabs Work Readiness Program",
+    "institution": "Rlabs",
     "eduDesc": "Rlabs created a one-year program where they taught us different concepts in IT. We were taught how to use the Microsoft Suite and how to write emails in the workplace. After 3 months, they split us up into groups depending on what job you wanted. I chose web development, so throughout the year we were taught web development concepts and created web pages using WordPress."
 },
 {
     "id": 5,
     "date": "Jan 2017 - Jun 2019",
-    "company": "iStudent Academy - College of Technology",
+    "institution": "iStudent Academy - College of Technology",
     "eduDesc": "This is where I started my journey into the world of Information technology. During my two and a half years at iStudent Academy, I gained knowledge that would help me in the workplace. The qualifications I obtained are the following: 1. National Certification: Information Technology, Systems Development 2. Diploma: ICT Systems and Principles for IT Professionals and 3. National Certification: Information Technology, Systems Support"
 },
 {
     "id": 6,
     "date": "2016",
-    "company": "Rlabs Web Dev Short Course",
+    "institution": "Rlabs",
     "eduDesc": "In 2016, I joined a month-long short course with Rlabs as an introduction to web development, and this is where my passion came about. I was exposed to HTML and CSS and created basic webpages, but the feeling I got when I created a webpage is one I won't ever forget."
 },
 {
   "id": 7,
   "date": "2016",
-  "company": "Rhodes High School",
+  "institution": "Rhodes High School",
   "eduDesc": "My high school period wasn't the best but I'm proud of the person I become after I graduated."
 }
 ],
