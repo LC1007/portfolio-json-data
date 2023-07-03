@@ -77,12 +77,27 @@
   "qualification": [
     {
       "id": 1,
-      "quaData": "Jun 2021 - Jul 2022",
-      "quaDesc": "During the 2 years I've obtained 4 qualification's from AWS and Azure",
-      "qualification1": "AWS Cloud Practitioner",
-      "qualification2": "Microsoft Certified: Azure Data Fundamentals",
-      "qualification3": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
-      "qualification4": "Microsoft Certified: Azure Fundamentals"
+      "qualification1": "Microsoft Certified: Azure Fundamentals",
+      "date": "Jul 2022",
+      "provider": "Azure"
+    },
+    {
+      "id": 2,
+      "qualification2": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+      "date": "May 2022",
+      "provider": "Azure"
+    },
+    {
+      "id": 3,
+      "qualification3": "Microsoft Certified: Azure Data Fundamentals",
+      "date": "Dec 2021",
+      "provider": "Azure"
+    },
+    {
+      "id": 4,
+      "qualification4": "AWS Certified: Cloud Practitioner",
+      "date": "Jun 2021",
+      "provider": "AWS"
     }
   ],
   "work": [
