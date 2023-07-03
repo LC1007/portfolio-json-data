@@ -79,25 +79,29 @@
       "id": 1,
       "qualification1": "Microsoft Certified: Azure Fundamentals",
       "date": "Jul 2022",
-      "provider": "Azure"
+      "provider": "Azure",
+      "img": "https://i.postimg.cc/4y3BL9KH/pngegg.png"
     },
     {
       "id": 2,
       "qualification2": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
       "date": "May 2022",
-      "provider": "Azure"
+      "provider": "Azure",
+      "img": "https://i.postimg.cc/4y3BL9KH/pngegg.png"
     },
     {
       "id": 3,
       "qualification3": "Microsoft Certified: Azure Data Fundamentals",
       "date": "Dec 2021",
-      "provider": "Azure"
+      "provider": "Azure",
+      "img": "https://i.postimg.cc/4y3BL9KH/pngegg.png"
     },
     {
       "id": 4,
       "qualification4": "AWS Certified: Cloud Practitioner",
       "date": "Jun 2021",
-      "provider": "AWS"
+      "provider": "AWS",
+      "img": "https://i.postimg.cc/rpJ1Bp21/pngegg-1.png"
     }
   ],
   "work": [
