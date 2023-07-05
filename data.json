@@ -77,28 +77,28 @@
   "qualification": [
     {
       "id": 1,
-      "qual": "Microsoft Certified: Azure Fundamentals",
+      "qualification": "Microsoft Certified: Azure Fundamentals",
       "date": "Jul 2022",
       "provider": "Azure",
       "img": "https://i.postimg.cc/4y3BL9KH/pngegg.png"
     },
     {
       "id": 2,
-      "qual": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+      "qualification": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
       "date": "May 2022",
       "provider": "Azure",
       "img": "https://i.postimg.cc/4y3BL9KH/pngegg.png"
     },
     {
       "id": 3,
-      "qual": "Microsoft Certified: Azure Data Fundamentals",
+      "qualification": "Microsoft Certified: Azure Data Fundamentals",
       "date": "Dec 2021",
       "provider": "Azure",
       "img": "https://i.postimg.cc/4y3BL9KH/pngegg.png"
     },
     {
       "id": 4,
-      "qual": "AWS Certified: Cloud Practitioner",
+      "qualification": "AWS Certified: Cloud Practitioner",
       "date": "Jun 2021",
       "provider": "AWS",
       "img": "https://i.postimg.cc/rpJ1Bp21/pngegg-1.png"
@@ -185,6 +185,44 @@
       "textSecond": "and front-end sectors due to his knack for problem solving and always doing his utmost to solve any problem that arises. Justin is extremely intuitive and a quick thinker; no challenge is too hard for Justin Scholtz.",
       "img": "https://i.postimg.cc/GhZypJBy/90928282-1613696178782933-8697521963691671552-n.jpg",
       "function": "ch-four"
+    }
+  ],
+  "aboutMe": [
+    {
+      "id": 1,
+      "title": "Adobe Photoshop",
+      "desc": "During 2016 I had some free time to learn a new skill and I decided to learn how to use photoshop, I managed to get a good understanding of how it works and how to create graphics for certain things.",
+      "img": "https://i.postimg.cc/Fscfgydx/photoshop.png"
+    },
+    {
+      "id": 2,
+      "title": "Adobe Illstrator",
+      "desc": "Adobe illstrator was the next program I learned which I really enjoyed as typography always caught my eye.",
+      "img": "https://i.postimg.cc/YSSqVY9Z/adobe-i.png"
+    },
+    {
+      "id": 3,
+      "title": "Abobe After Effects",
+      "desc": "I wanted to create videos and I came across Adobe After Effects, it was a really fun experience learning to create or edit videos.",
+      "img": "https://i.postimg.cc/YSSqVY9Z/adobe-i.png"
+    },
+    {
+      "id": 4,
+      "title": "Gaming",
+      "desc": "Huge soccer fan, if I'm not watching soccer then I'm playing soccer with friends. You'd always catch me with a ball because I grew up with one.",
+      "img": "https://i.postimg.cc/CLC6T473/controller.png"
+    },
+    {
+      "id": 5,
+      "title": "Sports",
+      "desc": "Huge soccer fan, if I'm not watching soccer then I'm playing soccer with friends. You'd always catch me with a ball because I grew up with one.",
+      "img": "https://i.postimg.cc/44vbbHKV/ball.png"
+    },
+    {
+      "id": 6,
+      "title": "Hands On Experience",
+      "desc": "I like breaking things and then fixing them, since a child I've been breaking lots of things which is where my passion for breaking things came from. I love building things no matter how small the project.",
+      "img": "https://i.postimg.cc/gJzcC7DY/tools.png"
     }
   ]
 }
