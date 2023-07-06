@@ -198,31 +198,31 @@
       "id": 2,
       "title": "Adobe Illstrator",
       "desc": "Adobe illstrator was the next program I learned which I really enjoyed as typography always caught my eye.",
-      "img": "https://i.postimg.cc/YSSqVY9Z/adobe-i.png"
+      "img": "bi bi-fonts"
     },
     {
       "id": 3,
       "title": "Abobe After Effects",
       "desc": "I wanted to create videos and I came across Adobe After Effects, it was a really fun experience learning to create or edit videos.",
-      "img": "https://i.postimg.cc/YSSqVY9Z/adobe-i.png"
+      "img": "bi bi-camera-reels"
     },
     {
       "id": 4,
       "title": "Gaming",
       "desc": "Huge soccer fan, if I'm not watching soccer then I'm playing soccer with friends. You'd always catch me with a ball because I grew up with one.",
-      "img": "https://i.postimg.cc/CLC6T473/controller.png"
+      "img": "bi bi-controller"
     },
     {
       "id": 5,
       "title": "Sports",
       "desc": "Huge soccer fan, if I'm not watching soccer then I'm playing soccer with friends. You'd always catch me with a ball because I grew up with one.",
-      "img": "https://i.postimg.cc/44vbbHKV/ball.png"
+      "img": "bi bi-bicycle"
     },
     {
       "id": 6,
       "title": "Hands On Experience",
       "desc": "I like breaking things and then fixing them, since a child I've been breaking lots of things which is where my passion for breaking things came from. I love building things no matter how small the project.",
-      "img": "https://i.postimg.cc/gJzcC7DY/tools.png"
+      "img": "bi bi-tools""
     }
   ]
 }
