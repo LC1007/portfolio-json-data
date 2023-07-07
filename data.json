@@ -150,6 +150,22 @@
       "gitHubLink": "https://github.com/Justin0929m/project-1.git",
       "demoLink": "https://homesalestoday.netlify.app/",
       "img": "https://i.postimg.cc/V6Rh1jDm/Untitled.png"
+    },
+    {
+      "id": 5,
+      "projectTitle": "Class Exercise",
+      "projectDesc": "I had to create flip card animations and this was my attempt at trying it.",
+      "gitHubLink": "https://github.com/LC1007/website-exercise",
+      "demoLink": "https://class-exercise007.netlify.app",
+      "img": "https://i.postimg.cc/Xv9dbbn2/Screenshot-2023-07-07-143130.png"
+    },
+    {
+      "id": 6,
+      "projectTitle": "E-commerce Website Using VUE",
+      "projectDesc": "I had to recreate our e-commerce website from our project week but this time we had to use vue. Joel taught us about the store in vuex and we needed to attempt it in our vue exercise.",
+      "gitHubLink": "https://github.com/LC1007/cycleVueWebsite",
+      "demoLink": "https://justinscycleshop.netlify.app",
+      "img": "https://i.postimg.cc/7hhdJbRY/Screenshot-2023-07-07-142040.png"
     }
   ],
   "testimonials": [
@@ -185,6 +201,22 @@
       "textSecond": "and front-end sectors due to his knack for problem solving and always doing his utmost to solve any problem that arises. Justin is extremely intuitive and a quick thinker; no challenge is too hard for Justin Scholtz.",
       "img": "https://i.postimg.cc/GhZypJBy/90928282-1613696178782933-8697521963691671552-n.jpg",
       "function": "ch-four"
+    },
+    {
+      "id": 5,
+      "name": "Codi Kader",
+      "textFirst": "Justin, He is a very determined, passionate and kind young man. He is going to do great things in the IT sector. You can count on that. Justin strives his best to make sure that all his deadlines & work is done as soon as possible and correctly as possible. He works really well in a group or alone. ",
+      "textSecond": "He is able to adapt in any environment he is placed in. Once you get to know him you feel a sense of belonging as he is able to welcome you in with a warm and kind energy.",
+      "img": "https://i.postimg.cc/YCHxc60Q/C12-C2-Codi-Kader.jpg",
+      "function": "ch-five"
+    },
+    {
+      "id": 6,
+      "name": "Mujahid Fisher",
+      "textFirst": "Justin is one of the funniest and smartest person I know. He is truly a people's person. He is someone who is willing and ready to lend a helping hand. He is never afraid of asking the right questions. ",
+      "textSecond": "So if you looking for someone who has the best qualities, personality and brains he should be your first option, TRUST ME!",
+      "img": "https://i.postimg.cc/T31F3tSM/20230702-164359.jpg",
+      "function": "ch-six"
     }
   ],
   "aboutMe": [
